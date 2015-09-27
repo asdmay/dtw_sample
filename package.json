@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dtw": "0.0.3",
+    "jquery": "^2.1.4",
+    "leapjs": "^0.6.4"
+  }
+}
